@@ -3,4 +3,5 @@ git is free software distributed under the GPL.
 git has a mutable index called stage.
 igit tracks changes.
 creating a new branch is quick
+creating a new brach is quick and simple.
 
